@@ -51,7 +51,7 @@ public class Main {
         }
 
         System.out.println("***********************************");
-        
+
         int whileCount = 0;
         int primeCount = 0;
         while(primeCount != 3) {
